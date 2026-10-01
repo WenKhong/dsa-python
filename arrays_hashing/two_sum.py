@@ -15,4 +15,4 @@ def twoSum_hashmap(nums, target):
         num_dict[num] = i
     return []
 
-print(twoSum_hashmap([2, 7, 11, 15], 9))
+print(twoSum_hashmap([2, 7, 11, 15], 9))  # Time : 0(n) Space : 0(n)
