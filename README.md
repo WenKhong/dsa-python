@@ -8,3 +8,5 @@
 | 2026-10-01 | Contains Duplicate | 25 |
 | 2026-10-02 | Valid Anagram | 10 |
 | 2026-10-02 | Group Anagram | 27 |
+| 2026-10-07 | Top K Frequent Elements | 30 |
+| 2026-10-09 | Product of Array Except Self | 23 |

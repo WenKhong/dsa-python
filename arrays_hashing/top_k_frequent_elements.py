@@ -1,11 +1,11 @@
 def topKFrequent(nums, k):
     count = {}
     for n in nums:
-        count[n] = count.get(n, 0) + 1
+        count[n] = count.get(n, 0) + 1 #.get(number, defaault value)
 
 
-    buckets = [[] for _ in range(len(nums) + 1)]
-    for num, freq in count.items():
+    buckets = [[] for _ in range(len(nums) + 1)] #_ = no variable needed
+    for num, freq in count.items(): #.itmes() return key and value pair
         buckets[freq].append(num)
 
 
