@@ -14,6 +14,6 @@ def maxArea(height):
             right -= 1
     return max_area
 
-# Example usage:
+# Example :
 height = [1, 8, 6, 2, 5, 4, 8, 3, 7]
-print(maxArea(height))  # Output: 49
+print(maxArea(height))
