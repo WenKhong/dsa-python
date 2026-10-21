@@ -13,3 +13,4 @@
 | 2026-10-13 | Two Sum II | 20 |
 | 2026-10-14 | 3 Sum | 20 |
 | 2026-10-16 | Container with Most Water | 20 |
+| 2026-10-21 | Best Time To Buy and Sell Stock | 10 |
