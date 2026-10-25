@@ -1,4 +1,4 @@
-# DSA in Python, solved without AI. Python, no AI NeetCode order, just a GitHub learning phase. (Used YouTube though)
+# DSA in Python, solved without AI. Python, no AI NeetCode order.
 
 
 ## Log
@@ -14,3 +14,4 @@
 | 2026-10-14 | 3 Sum | 20 |
 | 2026-10-16 | Container with Most Water | 20 |
 | 2026-10-21 | Best Time To Buy and Sell Stock | 10 |
+| 2026-10-25 | Encode & Decode String | 20 |
