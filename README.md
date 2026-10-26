@@ -16,3 +16,4 @@
 | 2026-10-21 | Best Time To Buy and Sell Stock | 10 |
 | 2026-10-25 | Encode & Decode String | 20 |
 | 2026-10-26 | Subarray Sum Equals K | 25 |
+| 2026-10-26 | Sort Colours | 30 |
