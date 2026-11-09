@@ -21,3 +21,4 @@
 | 2026-10-29 | Move Zeroes | 20 |
 | 2026-10-29 | Longest Substring Without Duplicate | 30 |
 | 2026-11-02 | Valid Parentheses | 25 |
+| 2026-11-09 | Daily Temperature | 15 |
