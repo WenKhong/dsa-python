@@ -22,3 +22,4 @@
 | 2026-10-29 | Longest Substring Without Duplicate | 30 |
 | 2026-11-02 | Valid Parentheses | 25 |
 | 2026-11-09 | Daily Temperature | 15 |
+| 2026-11-11 | Binary Search | 15 |
