@@ -24,3 +24,4 @@
 | 2026-11-09 | Daily Temperature | 15 |
 | 2026-11-11 | Binary Search | 15 |
 | 2026-11-12 | Search Matrix | 40 |
+| 2026-11-20 | Longest Consecutive Sequence | 20 |
