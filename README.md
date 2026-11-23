@@ -25,3 +25,4 @@
 | 2026-11-11 | Binary Search | 15 |
 | 2026-11-12 | Search Matrix | 40 |
 | 2026-11-20 | Longest Consecutive Sequence | 20 |
+| 2026-11-23 | Koko Eating Bananas | 30 |
