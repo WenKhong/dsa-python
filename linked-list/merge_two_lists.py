@@ -1,4 +1,4 @@
-def mergeTwoLists(list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+def mergeTwoLists(list1, list2):
     dummy = ListNode()
     tail = dummy
 
