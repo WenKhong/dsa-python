@@ -27,3 +27,4 @@
 | 2026-11-20 | Longest Consecutive Sequence | 20 |
 | 2026-11-23 | Koko Eating Bananas | 30 |
 | 2026-11-24 | Reverse Linked List | 10 |
+| 2026-11-25 | Merge Two Lists | 15 |
